@@ -1,0 +1,11 @@
+{
+  "name": "devops-interview-problem-4",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.17.0"
+  }
+}

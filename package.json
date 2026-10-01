@@ -1,0 +1,8 @@
+{
+  "name": "devops-interview-container-startup",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}
